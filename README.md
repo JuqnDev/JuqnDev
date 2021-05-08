@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=ZetherDev)
+![My Stats](https://github-readme-stats.vercel.app/api?username=JuqnDev)
 
