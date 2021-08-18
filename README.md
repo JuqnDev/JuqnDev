@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JuqnDev
-- 🌱 I’m currently learning Java & Python
+- Hi, my name is Juan.
+- I’m currently learning Java & Python
 
 <!---
 JuqnDev/JuqnDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
